@@ -20,3 +20,4 @@ project(XamlIslands
 )
 
 add_subdirectory(HelloXaml)
+add_subdirectory(FilePicker)

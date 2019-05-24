@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloXaml", "HelloXaml\HelloXaml.vcxproj", "{5500CD3C-89FF-4069-A7DE-5B8DD023A445}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FilePicker", "FilePicker\FilePicker.vcxproj", "{5B1B501C-A7E1-4430-ACDE-D7CC17AD2DCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5500CD3C-89FF-4069-A7DE-5B8DD023A445}.Release|x64.Build.0 = Release|x64
 		{5500CD3C-89FF-4069-A7DE-5B8DD023A445}.Release|x86.ActiveCfg = Release|Win32
 		{5500CD3C-89FF-4069-A7DE-5B8DD023A445}.Release|x86.Build.0 = Release|Win32
+		{5B1B501C-A7E1-4430-ACDE-D7CC17AD2DCB}.Debug|x64.ActiveCfg = Debug|x64
+		{5B1B501C-A7E1-4430-ACDE-D7CC17AD2DCB}.Debug|x64.Build.0 = Debug|x64
+		{5B1B501C-A7E1-4430-ACDE-D7CC17AD2DCB}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B1B501C-A7E1-4430-ACDE-D7CC17AD2DCB}.Debug|x86.Build.0 = Debug|Win32
+		{5B1B501C-A7E1-4430-ACDE-D7CC17AD2DCB}.Release|x64.ActiveCfg = Release|x64
+		{5B1B501C-A7E1-4430-ACDE-D7CC17AD2DCB}.Release|x64.Build.0 = Release|x64
+		{5B1B501C-A7E1-4430-ACDE-D7CC17AD2DCB}.Release|x86.ActiveCfg = Release|Win32
+		{5B1B501C-A7E1-4430-ACDE-D7CC17AD2DCB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -11,3 +11,4 @@ This repository contains example projects that demonstrate the use of Xaml Islan
 ## Projects
 
 * HelloXaml - A minimal example showing how to connect a Xaml Island to a Win32 HWND. A CMake project is included in order to demonstrate that no special vcxproj settings are required (it's just regular C++).
+* FilePicker - Demonstrates how to use FileOpenPicker in a Win32 application (via IInitializeWithWindow).
